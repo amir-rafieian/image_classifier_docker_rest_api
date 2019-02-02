@@ -10,7 +10,7 @@ sudo docker-compose up -d
 ```
 
 Then use postman to register a user:
-i[](https://github.com/amir-rafieian/image_classifier_docker_rest_api/blob/master/register.PNG)
+![](https://github.com/amir-rafieian/image_classifier_docker_rest_api/blob/master/register.PNG)
 
 And then call the api with an image to receive response:
 ![](https://github.com/amir-rafieian/image_classifier_docker_rest_api/blob/master/classify.PNG)
