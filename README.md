@@ -3,7 +3,8 @@
 
 You need to install docker ce & docker compose and then run the followings:
 
+
 ```
 sudo docker-compose build
-sudo docker-compose up
+sudo docker-compose up -d
 ```
